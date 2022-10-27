@@ -1,4 +1,4 @@
-# ico.bat
+# Important: You need to install [FFmpeg](https://ffmpeg.org/download.html#build-windows) command line tool before using this!  
 Convert .jpg, .jpeg and .png files to .ico files in the current directory  
   
 ### [Direct Download](https://github.com/RellikJaeger/ico.bat/releases/download/v0.0.1-alpha/ico.bat)
