@@ -15,6 +15,7 @@ if /i %0 equ "%~dpnx0" (
 net session >nul 2>&1 && (
 	title Moving ico.bat to %WinDir%
 	move /y %0 %WinDir%
+	msg * ico.bat installed at %WinDir%\ico.bat!
 	goto :eof
 )
 
